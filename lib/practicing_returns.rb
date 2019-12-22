@@ -11,4 +11,3 @@ binding.pry
 
 hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
 
-#hello(names) { |name| puts "Hi, #{name}"}
