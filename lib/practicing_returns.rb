@@ -1,7 +1,5 @@
 require 'pry'
 
-#names = ["tim","tom","jim"]
-
 def hello(array)
   i = 0
   while i < array.length
